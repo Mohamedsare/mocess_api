@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  # Service Django
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_ENGINE=postgresql
+      - DB_NAME=mocess_db
+      - DB_USER=mocess_user
+      - DB_PASSWORD=@Basbedo@123
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DEBUG=False
+      - ALLOWED_HOSTS=localhost,127.0.0.1
+    depends_on:
+      - db
+    volumes:
+      - static_volume:/app/staticfiles
+      - media_volume:/app/media
+    restart: unless-stopped
+
+  # Service PostgreSQL
+  db:
+    image: postgres:15
+    environment:
+      - POSTGRES_DB=mocess_db
+      - POSTGRES_USER=mocess_user
+      - POSTGRES_PASSWORD=@Basbedo@123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+  # Service Nginx (optionnel)
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - static_volume:/app/staticfiles
+      - media_volume:/app/media
+    depends_on:
+      - web
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+  static_volume:
+  media_volume:

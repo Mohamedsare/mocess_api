@@ -1,0 +1,2967 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-07-27T12:44:34.135Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "DJIGUEMDE",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Username\", \"First name\", \"Last name\", \"Email address\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-07-27T12:48:28.343Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "3",
+    "object_repr": "Alban",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-07-27T12:52:17.645Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "3",
+    "object_repr": "Alban",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-07-27T12:53:21.651Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "Partenariat de Norbert - ecole",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Trait\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-07-27T12:53:36.470Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "Partenariat de Sarah Johnson - Green Development Initiative",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Trait\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-07-27T12:55:52.621Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "ENSET",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-07-27T12:57:01.204Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "ENSET",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-07-27T13:00:31.806Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "3",
+    "object_repr": "IoT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-07-27T16:33:23.497Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "3",
+    "object_repr": "IoT",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-07-27T18:18:17.701Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Projet 3 : Vers une Réutilisation Durable des Eaux Usées (Maroc–Suisse)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Image de projet\", \"object\": \"Image pour Projet 3 : Vers une R\\u00e9utilisation Durable des Eaux Us\\u00e9es (Maroc\\u2013Suisse)\"}}, {\"added\": {\"name\": \"Image de projet\", \"object\": \"Image pour Projet 3 : Vers une R\\u00e9utilisation Durable des Eaux Us\\u00e9es (Maroc\\u2013Suisse)\"}}, {\"added\": {\"name\": \"Image de projet\", \"object\": \"Image pour Projet 3 : Vers une R\\u00e9utilisation Durable des Eaux Us\\u00e9es (Maroc\\u2013Suisse)\"}}, {\"added\": {\"name\": \"Image de projet\", \"object\": \"Image pour Projet 3 : Vers une R\\u00e9utilisation Durable des Eaux Us\\u00e9es (Maroc\\u2013Suisse)\"}}, {\"added\": {\"name\": \"Image de projet\", \"object\": \"Image pour Projet 3 : Vers une R\\u00e9utilisation Durable des Eaux Us\\u00e9es (Maroc\\u2013Suisse)\"}}, {\"added\": {\"name\": \"Image de projet\", \"object\": \"Image pour Projet 3 : Vers une R\\u00e9utilisation Durable des Eaux Us\\u00e9es (Maroc\\u2013Suisse)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-07-27T18:20:42.754Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Projet 3 : Vers une Réutilisation Durable des Eaux Usées (Maroc–Suisse)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Projet en vedette\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-07-27T18:21:37.891Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Vers une Réutilisation Durable des Eaux Usées (Maroc–Suisse)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Titre\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-07-27T18:25:16.522Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Conférence Internationale – 25-27 septembre 2024",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Conf\\u00e9rence Internationale \\u2013 25-27 septembre 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Conf\\u00e9rence Internationale \\u2013 25-27 septembre 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Conf\\u00e9rence Internationale \\u2013 25-27 septembre 2024\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-07-27T18:28:03.220Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Conférence Internationale – 25-27 septembre 2024",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-07-27T18:31:33.332Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Table Ronde Internationale – 16 mai 2024",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Table Ronde Internationale \\u2013 16 mai 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Table Ronde Internationale \\u2013 16 mai 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Table Ronde Internationale \\u2013 16 mai 2024\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-07-27T18:36:35.682Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Lancement du projet PEAR-Haouz – Juillet 2024",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Lancement du projet PEAR-Haouz \\u2013 Juillet 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Lancement du projet PEAR-Haouz \\u2013 Juillet 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Lancement du projet PEAR-Haouz \\u2013 Juillet 2024\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour Lancement du projet PEAR-Haouz \\u2013 Juillet 2024\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-07-27T18:40:49.912Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "SNIPTE 2025 – Symposium National sur les Avancées en Traitement des Eaux et Défis Durables",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour SNIPTE 2025 \\u2013 Symposium National sur les Avanc\\u00e9es en Traitement des Eaux et D\\u00e9fis Durables\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour SNIPTE 2025 \\u2013 Symposium National sur les Avanc\\u00e9es en Traitement des Eaux et D\\u00e9fis Durables\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour SNIPTE 2025 \\u2013 Symposium National sur les Avanc\\u00e9es en Traitement des Eaux et D\\u00e9fis Durables\"}}, {\"added\": {\"name\": \"Image d'actualit\\u00e9\", \"object\": \"Image pour SNIPTE 2025 \\u2013 Symposium National sur les Avanc\\u00e9es en Traitement des Eaux et D\\u00e9fis Durables\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-07-27T18:47:14.537Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "Université Cadi Ayyad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Logo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-07-27T18:47:35.285Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "Programme des Nations Unies pour l'Environnement",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Logo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-07-27T18:47:47.209Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "Organisation des Nations Unies pour l'Alimentation",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Logo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-07-27T18:55:53.166Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "2",
+    "object_repr": "Vidéo: Techniques d'irrigation durable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Fichier\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-07-27T18:56:39.252Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "2",
+    "object_repr": "Vidéo: Techniques d'irrigation durable",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-07-27T18:57:32.482Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Guide de bonnes pratiques environnementales",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Fichier\", \"Nombre de t\\u00e9l\\u00e9chargements\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-07-27T19:00:06.705Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "1",
+    "object_repr": "Dr. Ahmed Benali",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-07-27T19:00:26.888Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "1",
+    "object_repr": "Dr. Ahmed Benali",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-07-27T19:03:21.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Message de Mohammed Alami - Demande d'information sur les projets",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Lu\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-07-27T19:05:59.888Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "Partenariat de Norbert - ecole",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-07-27T19:06:12.041Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "Partenariat de Sarah Johnson - Green Development Initiative",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-07-27T19:11:15.439Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Message de Mohammed Alami - Demande d'information sur les projets",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-07-27T20:34:59.560Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "ENSET Mohammedia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-07-27T20:35:48.269Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "ENSET Mohammedia",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-07-27T20:38:01.628Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "Université Cadi Ayyad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Logo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-07-28T14:26:29.750Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "3",
+    "object_repr": "Partenariat de Norbert - Etudiant",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Trait\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-07-28T14:26:43.792Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "3",
+    "object_repr": "Partenariat de Norbert - Etudiant",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-07-28T14:30:43.398Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "1",
+    "object_repr": "RAZOUGUI Abdelouahab",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nom complet\", \"Poste\", \"Biographie\", \"Email\", \"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-07-28T14:32:23.107Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "2",
+    "object_repr": "AZIZ Faissal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nom complet\", \"Poste\", \"Email\", \"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-07-28T14:33:53.555Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "3",
+    "object_repr": "ASSAQUA Jamal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-07-28T14:34:26.299Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "4",
+    "object_repr": "SADIQ Abderrahmane",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-07-28T14:35:18.564Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "3",
+    "object_repr": "ASSAQUA Jamal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-07-28T14:35:18.566Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "4",
+    "object_repr": "SADIQ Abderrahmane",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-07-28T14:36:28.990Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "5",
+    "object_repr": "OUERZZANE Fouad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-07-28T14:37:45.519Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "6",
+    "object_repr": "WAHIDI Mustapha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-07-28T14:37:56.598Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "6",
+    "object_repr": "WAHIDI Mustapha",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-07-28T14:38:46.221Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "7",
+    "object_repr": "LAHROUNI Majda",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-07-28T14:41:20.771Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "8",
+    "object_repr": "SBIHI Karim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-07-28T14:44:27.854Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "9",
+    "object_repr": "TAI Taoufiq",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-07-28T14:45:09.184Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "10",
+    "object_repr": "BOUTERKROUT Abdelkhalek",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-07-28T14:46:06.416Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "11",
+    "object_repr": "OUZIDANE Hassan",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-07-28T14:46:55.514Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "11",
+    "object_repr": "OUZIDANE Hassan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-07-28T14:50:23.072Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "11",
+    "object_repr": "OUZIDANE Hassan",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-07-28T14:55:09.652Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "12",
+    "object_repr": "BARAKA Kamal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-07-28T14:57:14.774Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "4",
+    "object_repr": "IoT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-07-28T14:58:16.507Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "4",
+    "object_repr": "IoT",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-07-28T15:52:11.966Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Association Al Amal pour le Développement Durable",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-07-28T15:53:30.349Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Association Al Amal pour le Développement Durable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-07-28T15:54:45.433Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Association Al Amal pour le Développement Durable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-07-28T15:57:57.845Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Association Al Amal pour le Développement Durable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-07-28T16:06:10.490Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "Centre National d’Étude et de Recherche sur l’Eau et l’Énergie (CNEREE)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-07-28T16:08:41.013Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "Faculté Polydisciplinaire de Taroudant – Université Ibn Zohr",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-07-28T16:09:06.148Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "Faculté Polydisciplinaire de Taroudant – Université Ibn Zohr",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-07-28T16:09:55.568Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "Faculté Polydisciplinaire de Taroudant – Université Ibn Zohr",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-07-28T16:10:18.461Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "Centre National d’Étude et de Recherche sur l’Eau et l’Énergie (CNEREE)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-07-28T16:19:40.014Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "9",
+    "object_repr": "Ambassade de France au Maroc",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-07-28T16:50:49.012Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Fonds canadien d'initiatives locales",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-07-28T16:52:20.449Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Fonds canadien d'initiatives locales",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Site web\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-07-28T16:54:20.077Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Fonds canadien d'initiatives locales",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-07-28T17:03:19.990Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "11",
+    "object_repr": "Qnet",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-07-28T17:36:18.331Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "10",
+    "object_repr": "BOUTERKROUT Abdelkhalek",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-07-28T17:37:08.763Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "12",
+    "object_repr": "BARAKA Kamal",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-07-28T17:38:03.902Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "8",
+    "object_repr": "SBIHI Karim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-07-28T17:38:09.262Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "8",
+    "object_repr": "SBIHI Karim",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-07-28T17:40:57.866Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "9",
+    "object_repr": "TAI Taoufiq",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-07-28T17:41:30.194Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "8",
+    "object_repr": "SBIHI Karim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-07-28T17:42:28.529Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "11",
+    "object_repr": "OUZIDANE Hassan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-07-28T17:45:00.072Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "11",
+    "object_repr": "OUZIDANE Hassan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-07-28T17:49:54.760Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "8",
+    "object_repr": "SBIHI Karim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-07-28T17:51:02.172Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "8",
+    "object_repr": "SBIHI Karim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-07-28T17:53:47.491Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Guide de bonnes pratiques environnementales",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Fichier\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-07-28T18:34:56.129Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "2",
+    "object_repr": "Rapport sur l'état de l'environnement au Maroc 2024",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Fichier PDF\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-07-28T18:36:44.621Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "1",
+    "object_repr": "Gestion durable des ressources hydriques au Maroc",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Fichier PDF\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-07-28T18:37:55.288Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Guide de bonnes pratiques environnementales",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Fichier\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-07-30T13:41:48.322Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "13",
+    "object_repr": "Kamal BARAKA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-07-30T13:45:42.057Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "14",
+    "object_repr": "BOUTERKROUT Abdelkhalek",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-07-30T13:46:01.480Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "14",
+    "object_repr": "BOUTERKROUT Abdelkhalek",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-07-30T13:49:26.949Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "13",
+    "object_repr": "Kamal BARAKA",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-07-30T13:54:47.519Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "3",
+    "object_repr": "ASSAQUA Jamal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2025-07-30T13:55:07.158Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "6",
+    "object_repr": "WAHIDI Mustapha",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2025-07-30T13:59:30.462Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "5",
+    "object_repr": "OUERZZANE Fouad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2025-07-30T15:03:42.962Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "4",
+    "object_repr": "Norbert - norbert@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2025-07-30T15:06:32.863Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "4",
+    "object_repr": "Partenariat de Alban - IA",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Trait\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2025-07-30T19:10:41.274Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2025-07-30T19:11:20.630Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2025-07-30T19:13:28.172Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2025-07-30T19:13:59.800Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2025-07-30T19:14:13.764Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2025-07-30T19:14:32.090Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Type de partenaire\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2025-08-03T09:44:33.187Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Vers une Réutilisation Durable des Eaux Usées (Maroc–Suisse)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2025-08-03T10:30:04.613Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "Université Cadi Ayyad",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2025-08-03T10:30:12.347Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "Programme des Nations Unies pour l'Environnement",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2025-08-03T10:30:19.042Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "Organisation des Nations Unies pour l'Alimentation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2025-08-04T15:29:01.779Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "12",
+    "object_repr": "norbert - norbert@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2025-08-04T15:29:49.318Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "8",
+    "object_repr": "norbert - norbert@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2025-08-04T15:29:57.888Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "11",
+    "object_repr": "c,ceveve - norbett@gam.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2025-08-04T15:30:05.314Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "10",
+    "object_repr": "norber - norbert@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2025-08-04T15:30:12.338Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "9",
+    "object_repr": "norbert - norbert12@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2025-08-04T15:30:19.209Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "7",
+    "object_repr": "ali - ali@gamil.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2025-08-04T15:30:26.601Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "6",
+    "object_repr": "Norbert - nornert@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2025-08-06T00:42:00.278Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2025-08-06T00:42:56.089Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "13",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.913Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Association Al Amal pour le Développement Durable",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.922Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "Centre National d’Étude et de Recherche sur l’Eau et l’Énergie (CNEREE)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.923Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "Faculté Polydisciplinaire de Taroudant – Université Ibn Zohr",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.924Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "9",
+    "object_repr": "Ambassade de France au Maroc",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.925Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Fonds canadien d'initiatives locales",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.926Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "11",
+    "object_repr": "Qnet",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2025-08-06T22:12:26.927Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "13",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2025-08-06T22:13:29.273Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "14",
+    "object_repr": "Université",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2025-08-06T22:14:13.171Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "14",
+    "object_repr": "Université",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2025-08-06T23:52:03.131Z",
+    "user": 1,
+    "content_type": 21,
+    "object_id": "1",
+    "object_repr": "Lancement du projet",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2025-08-06T23:58:42.996Z",
+    "user": 1,
+    "content_type": 20,
+    "object_id": "1",
+    "object_repr": "Projet: 5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2025-08-07T00:10:09.662Z",
+    "user": 1,
+    "content_type": 20,
+    "object_id": "2",
+    "object_repr": "Projets réalisés: 5",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2025-08-07T00:10:33.214Z",
+    "user": 1,
+    "content_type": 20,
+    "object_id": "3",
+    "object_repr": "Chercheurs & experts impliqués: 40",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2025-08-07T00:10:33.216Z",
+    "user": 1,
+    "content_type": 20,
+    "object_id": "4",
+    "object_repr": "Partenaires nationaux & internationaux: 20",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2025-08-07T00:10:33.217Z",
+    "user": 1,
+    "content_type": 20,
+    "object_id": "1",
+    "object_repr": "Projet: 5",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Ordre d'affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2025-08-07T00:32:13.965Z",
+    "user": 1,
+    "content_type": 20,
+    "object_id": "6",
+    "object_repr": "Projets réalisés: 4",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Valeur\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2025-08-07T01:55:36.131Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "13",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2025-08-07T01:56:51.778Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "15",
+    "object_repr": "M2K TELECOM",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$il78cdUqFaz3AhNwf7K7is$3zclgpU5et8fZ83PRDPXega+qSMDujFWbw70K27REe0=",
+    "last_login": "2025-08-07T10:43:22.966Z",
+    "is_superuser": true,
+    "username": "DJIGUEMDE",
+    "first_name": "Norbert",
+    "last_name": "DJIGUEMDE",
+    "email": "norbert.djiguemde@usmba.ac.ma",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-27T12:24:13Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "40sh7d3dhupzlk6kj9o6a2s7ld0b849r",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujS68:_pGpEDXHstQ6Hz9D_QQdg8f0c4yZw8yuY5MfIJ-KWc4",
+    "expire_date": "2025-08-06T01:33:40.769Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "65rldimlja5p5dka5uy47ckjzrucb1n2",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujpeO:HqxNiwaF0-uzexQnOX_qMi5pkv8VQD_Tb7uAlNsfcQI",
+    "expire_date": "2025-08-21T01:42:36.607Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7d2xrfrz08pnn602h2cts2mi7ae7fesu",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1uh6XJ:ffK9Pw_xhBPEJBDjjC8MsNC4p-L_M4YrPSZpQA1nX_M",
+    "expire_date": "2025-08-13T13:08:01.681Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9wj6a272eyrtajzfy1kxud0q5wknqmql",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujaMv:Wu7e5b6IWmnWB0oNjbu6_W3xmC41WIllrCCHioihlVE",
+    "expire_date": "2025-08-20T09:23:33.074Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "k9ret5bumteqntp4i6t29t9hxhz2fwgp",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1uhEMT:UyvPALMnA4d4h13BNpA8kvVh1VuGTm3o0Iq_dVnJKRs",
+    "expire_date": "2025-08-13T21:29:21.433Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kfqiteob3nvx9g0te8w29mi47xsu0gov",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujceC:VeLw9NiAtdd2EvSSyWxBqS_ev0mAzlGtA1Q0XPSWtWg",
+    "expire_date": "2025-08-20T11:49:32.749Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rls8ojc5m0mk45gvqjxs48kkf7gfwsu3",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujqZR:3oLs8vigvM5MiUcTOplw64hyoQqdRwj3f-C35ohdRyg",
+    "expire_date": "2025-08-21T02:41:33.263Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "uz2f7p6xpa880uj4k7ebpt434d21imok",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujy5i:CJ47Xu5bqBbIjKCMgfoJDKk8UPiXMvpAhQH9KGs13uE",
+    "expire_date": "2025-08-21T10:43:22.977Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zndbkcsq29n78dzarc1zg7fbyhl4xq5b",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-bD6mpOcM1q7XSwLIluKkQtwdIqWA9s3Me6mI2zrFreUlzqzOyqrT70aYHrnsgO9YblWnWtZlJr0r-qBNXyvn5-Vw_w4mbNO3doBGJFEPzg4dkO964Q7YjjkHh-TJpBAgmJFgEEje-5yQWYz0Euyg3h_mUjg2:1ujf92:V6Plag7vEUN7HKYv7FCiNGwFm1TKrExNym0afw92TJM",
+    "expire_date": "2025-08-20T14:29:32.483Z"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 1,
+  "fields": {
+    "name": "Développement Durable",
+    "slug": "developpement-durable",
+    "description": "Catégorie pour Développement Durable",
+    "created_at": "2025-07-27T12:26:20.144Z",
+    "updated_at": "2025-07-27T12:26:20.144Z"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 2,
+  "fields": {
+    "name": "Gestion de l'Eau",
+    "slug": "gestion-eau",
+    "description": "Catégorie pour Gestion de l'Eau",
+    "created_at": "2025-07-27T12:26:20.152Z",
+    "updated_at": "2025-07-27T12:26:20.152Z"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 3,
+  "fields": {
+    "name": "Agriculture Durable",
+    "slug": "agriculture-durable",
+    "description": "Catégorie pour Agriculture Durable",
+    "created_at": "2025-07-27T12:26:20.157Z",
+    "updated_at": "2025-07-27T12:26:20.157Z"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 4,
+  "fields": {
+    "name": "Énergie Renouvelable",
+    "slug": "energie-renouvelable",
+    "description": "Catégorie pour Énergie Renouvelable",
+    "created_at": "2025-07-27T12:26:20.165Z",
+    "updated_at": "2025-07-27T12:26:20.165Z"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 5,
+  "fields": {
+    "name": "Biodiversité",
+    "slug": "biodiversite",
+    "description": "Catégorie pour Biodiversité",
+    "created_at": "2025-07-27T12:26:20.171Z",
+    "updated_at": "2025-07-27T12:26:20.171Z"
+  }
+},
+{
+  "model": "api.project",
+  "pk": 1,
+  "fields": {
+    "title": "WomATLAS",
+    "slug": "womatlas",
+    "description": "Projet d'autonomisation des femmes dans le Haut Atlas",
+    "theme": "Autonomisation des femmes, développement économique local, égalité de genre",
+    "objectives": [
+      "Créer des opportunités d'emploi pour les femmes rurales",
+      "Réduire les inégalités de genre dans les zones montagneuses",
+      "Encourager l'inclusion économique"
+    ],
+    "partners": [
+      "Association Al Amal pour le Développement Durable",
+      "Ambassade du Canada au Maroc"
+    ],
+    "results": [
+      "Feuille de route définie pour la mise en œuvre",
+      "Lancement d'activités professionnelles locales",
+      "Renforcement des capacités locales"
+    ],
+    "sdgs": [
+      {
+        "id": 5,
+        "text": "Égalité entre les sexes"
+      },
+      {
+        "id": 8,
+        "text": "Travail décent et croissance économique"
+      },
+      {
+        "id": 10,
+        "text": "Réduction des inégalités"
+      }
+    ],
+    "status": "en_cours",
+    "start_date": "2025-01-28",
+    "end_date": "2026-01-23",
+    "budget": null,
+    "location": "Haut Atlas, Maroc",
+    "category": null,
+    "is_featured": true,
+    "created_at": "2025-07-27T12:26:20.178Z",
+    "updated_at": "2025-07-27T12:26:20.178Z"
+  }
+},
+{
+  "model": "api.project",
+  "pk": 2,
+  "fields": {
+    "title": "PEAR-HAOUZ",
+    "slug": "pear-haouz",
+    "description": "Projet de gestion intégrée de l'eau dans la région du Haouz",
+    "theme": "Gestion intégrée de l'eau, agriculture durable, transfert de technologies",
+    "objectives": [
+      "Renforcer les capacités des agriculteurs",
+      "Promouvoir la réutilisation sûre des eaux usées",
+      "Favoriser les solutions basées sur la nature"
+    ],
+    "partners": [
+      "CNEREE – Université Cadi Ayyad",
+      "MOCESS",
+      "Ambassade de France au Maroc"
+    ],
+    "results": [
+      "Visite technique de la plateforme de traitement",
+      "Dialogue multi-acteurs",
+      "Transfert de savoirs sur les procédés écologiques"
+    ],
+    "sdgs": [
+      {
+        "id": 6,
+        "text": "Eau propre et assainissement"
+      },
+      {
+        "id": 12,
+        "text": "Consommation et production responsables"
+      },
+      {
+        "id": 13,
+        "text": "Lutte contre les changements climatiques"
+      }
+    ],
+    "status": "en_cours",
+    "start_date": "2025-04-28",
+    "end_date": "2026-04-23",
+    "budget": null,
+    "location": "Région du Haouz, Marrakech",
+    "category": null,
+    "is_featured": true,
+    "created_at": "2025-07-27T12:26:20.186Z",
+    "updated_at": "2025-07-27T12:26:20.186Z"
+  }
+},
+{
+  "model": "api.project",
+  "pk": 3,
+  "fields": {
+    "title": "Vers une Réutilisation Durable des Eaux Usées (Maroc–Suisse)",
+    "slug": "vers-une-reutilisation-durable-des-eaux-usees-marocsuisse",
+    "description": "Ce projet s’inscrit dans une collaboration internationale entre le Maroc et la Suisse, visant à promouvoir la réutilisation durable des eaux usées traitées pour répondre aux défis de la pénurie d’eau et de la préservation des ressources naturelles",
+    "theme": "Technologies durables de traitement de l’eau, réutilisation, nexus eau-énergie-agriculture",
+    "objectives": [
+      "Améliorer les stations d'épuration pour une réutilisation durable",
+      "Intégrer la dimension sociale dans le choix des solutions techniques",
+      "Adapter les pratiques aux besoins des communautés locales"
+    ],
+    "partners": [
+      "MESRI (Maroc)",
+      "Leading House MENA (Suisse)",
+      "Centre MOCESS",
+      "Partenaires académiques et techniques des deux pays"
+    ],
+    "results": [
+      "Profil socio-économique des agriculteurs bénéficiaires",
+      "Analyse des perceptions et pratiques autour de l’eau usée traitée",
+      "Alignement des solutions techniques avec les réalités locales"
+    ],
+    "sdgs": [
+      {
+        "id": 6,
+        "text": "Eau propre et assainissement"
+      },
+      {
+        "id": 9,
+        "text": "Industrie, innovation et infrastructure"
+      },
+      {
+        "id": 11,
+        "text": "Villes et communautés durables"
+      },
+      {
+        "id": 17,
+        "text": "Partenariats pour la réalisation des objectifs"
+      }
+    ],
+    "status": "en_cours",
+    "start_date": "2025-06-25",
+    "end_date": "2025-11-25",
+    "budget": null,
+    "location": "Haut Atlas, Maroc",
+    "category": 2,
+    "is_featured": true,
+    "created_at": "2025-07-27T18:18:17.678Z",
+    "updated_at": "2025-08-03T09:44:33.183Z"
+  }
+},
+{
+  "model": "api.projectimage",
+  "pk": 1,
+  "fields": {
+    "project": 3,
+    "image": "projects/Eau1.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:18:17.685Z"
+  }
+},
+{
+  "model": "api.projectimage",
+  "pk": 2,
+  "fields": {
+    "project": 3,
+    "image": "projects/Eau2.jpg",
+    "caption": "",
+    "order": 1,
+    "created_at": "2025-07-27T18:18:17.688Z"
+  }
+},
+{
+  "model": "api.projectimage",
+  "pk": 3,
+  "fields": {
+    "project": 3,
+    "image": "projects/Eau3.jpg",
+    "caption": "",
+    "order": 2,
+    "created_at": "2025-07-27T18:18:17.691Z"
+  }
+},
+{
+  "model": "api.projectimage",
+  "pk": 4,
+  "fields": {
+    "project": 3,
+    "image": "projects/Eau4.jpg",
+    "caption": "",
+    "order": 3,
+    "created_at": "2025-07-27T18:18:17.694Z"
+  }
+},
+{
+  "model": "api.projectimage",
+  "pk": 5,
+  "fields": {
+    "project": 3,
+    "image": "projects/Eau5.jpg",
+    "caption": "",
+    "order": 4,
+    "created_at": "2025-07-27T18:18:17.697Z"
+  }
+},
+{
+  "model": "api.projectimage",
+  "pk": 6,
+  "fields": {
+    "project": 3,
+    "image": "projects/Eau6.jpg",
+    "caption": "",
+    "order": 5,
+    "created_at": "2025-07-27T18:18:17.700Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 1,
+  "fields": {
+    "title": "Table Ronde Internationale – 16 mai 2024",
+    "slug": "table-ronde-internationale-16-mai-2024",
+    "description": "Science pilotée par la communauté – Habiliter les ONG et le secteur privé pour une recherche durable , Organisée par le MOCESS en partenariat avec l'Association Al Amal et le CNEREE de l'Université Cadi Ayyad",
+    "content": "Organisée par le MOCESS en partenariat avec l'Association Al Amal et le CNEREE de l'Université Cadi Ayyad",
+    "news_type": "table_ronde",
+    "event_date": "2025-06-27T13:26:20Z",
+    "location": "Marrakech, Maroc",
+    "organizers": [
+      "MOCESS",
+      "Association Al Amal",
+      "CNEREE"
+    ],
+    "is_published": true,
+    "is_featured": true,
+    "created_at": "2025-07-27T12:26:20.219Z",
+    "updated_at": "2025-07-27T18:31:33.314Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 2,
+  "fields": {
+    "title": "Conférence Internationale – 25-27 septembre 2024",
+    "slug": "conference-internationale-25-27-septembre-2024",
+    "description": "Innovation dans le domaine de l'eau et irrigation intelligente, Organisée par le MOCESS en partenariat avec l'Université Cadi Ayyad, le CNEREE et l'Association Al Amal",
+    "content": "Organisée par le MOCESS en partenariat avec l'Université Cadi Ayyad, le CNEREE et l'Association Al Amal",
+    "news_type": "conference",
+    "event_date": "2025-09-25T13:26:20Z",
+    "location": "Marrakech, Maroc",
+    "organizers": [
+      "MOCESS",
+      "Université Cadi Ayyad",
+      "CNEREE",
+      "Association Al Amal"
+    ],
+    "is_published": true,
+    "is_featured": true,
+    "created_at": "2025-07-27T12:26:20.229Z",
+    "updated_at": "2025-07-27T18:28:03.215Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 3,
+  "fields": {
+    "title": "Lancement du projet PEAR-Haouz – Juillet 2024",
+    "slug": "lancement-du-projet-pear-haouz-juillet-2024",
+    "description": "Retenu pour financement par l’Ambassade de France et officiellement démarré pour promouvoir la préservation de l’eau dans la région du Haouz",
+    "content": "Retenu pour financement par l’Ambassade de France et officiellement démarré pour promouvoir la préservation de l’eau dans la région du Haouz",
+    "news_type": "lancement",
+    "event_date": "2024-07-25T13:34:40Z",
+    "location": "Marrakech, Maroc",
+    "organizers": [
+      "MOCESS",
+      "Université Cadi Ayyad",
+      "CNEREE",
+      "Association Al Amal"
+    ],
+    "is_published": true,
+    "is_featured": true,
+    "created_at": "2025-07-27T18:36:35.671Z",
+    "updated_at": "2025-07-27T18:36:35.671Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 4,
+  "fields": {
+    "title": "SNIPTE 2025 – Symposium National sur les Avancées en Traitement des Eaux et Défis Durables",
+    "slug": "snipte-2025-symposium-national-sur-les-avancees-en-traitement-des-eaux-et-defis-durables",
+    "description": "(FPT – CNEREE – MOCESS | Taroudant, 19 avril 2025)",
+    "content": "(FPT – CNEREE – MOCESS | Taroudant, 19 avril 2025)",
+    "news_type": "symposium",
+    "event_date": "2025-04-19T13:39:24Z",
+    "location": "Marrakech, Maroc",
+    "organizers": [
+      "MOCESS",
+      "Université Cadi Ayyad",
+      "CNEREE",
+      "Association Al Amal"
+    ],
+    "is_published": true,
+    "is_featured": true,
+    "created_at": "2025-07-27T18:40:49.894Z",
+    "updated_at": "2025-07-27T18:40:49.894Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 1,
+  "fields": {
+    "news": 2,
+    "image": "news/confer1.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:25:16.513Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 2,
+  "fields": {
+    "news": 2,
+    "image": "news/confer2.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:25:16.517Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 3,
+  "fields": {
+    "news": 2,
+    "image": "news/confer3.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:25:16.520Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 4,
+  "fields": {
+    "news": 1,
+    "image": "news/tablesronde1.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:31:33.322Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 5,
+  "fields": {
+    "news": 1,
+    "image": "news/tablesronde2.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:31:33.326Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 6,
+  "fields": {
+    "news": 1,
+    "image": "news/tablesronde3.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:31:33.330Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 7,
+  "fields": {
+    "news": 3,
+    "image": "news/lance1.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:36:35.675Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 8,
+  "fields": {
+    "news": 3,
+    "image": "news/lance2.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:36:35.677Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 9,
+  "fields": {
+    "news": 3,
+    "image": "news/lance3.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:36:35.679Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 10,
+  "fields": {
+    "news": 3,
+    "image": "news/lance4.jpg",
+    "caption": "",
+    "order": 0,
+    "created_at": "2025-07-27T18:36:35.681Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 11,
+  "fields": {
+    "news": 4,
+    "image": "news/sympo1.jpg",
+    "caption": "",
+    "order": 1,
+    "created_at": "2025-07-27T18:40:49.901Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 12,
+  "fields": {
+    "news": 4,
+    "image": "news/sympo2.jpg",
+    "caption": "",
+    "order": 2,
+    "created_at": "2025-07-27T18:40:49.903Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 13,
+  "fields": {
+    "news": 4,
+    "image": "news/sympo3.jpg",
+    "caption": "",
+    "order": 3,
+    "created_at": "2025-07-27T18:40:49.906Z"
+  }
+},
+{
+  "model": "api.newsimage",
+  "pk": 14,
+  "fields": {
+    "news": 4,
+    "image": "news/sympo4.jpg",
+    "caption": "",
+    "order": 4,
+    "created_at": "2025-07-27T18:40:49.910Z"
+  }
+},
+{
+  "model": "api.publication",
+  "pk": 1,
+  "fields": {
+    "title": "Gestion durable des ressources hydriques au Maroc",
+    "slug": "gestion-durable-ressources-hydriques-maroc",
+    "authors": [
+      "Dr. Ahmed Benali",
+      "Dr. Fatima Zahra"
+    ],
+    "abstract": "Cette étude analyse les défis et opportunités pour une gestion durable de l'eau au Maroc",
+    "content": "",
+    "publication_type": "article",
+    "journal": "Journal of Water Management",
+    "doi": "",
+    "publication_date": "2025-04-28",
+    "keywords": [
+      "eau",
+      "durabilité",
+      "Maroc",
+      "gestion"
+    ],
+    "file": "publications/FT-Staion-Météo.pdf",
+    "is_published": true,
+    "created_at": "2025-07-27T12:26:20.237Z",
+    "updated_at": "2025-07-28T18:36:44.618Z"
+  }
+},
+{
+  "model": "api.publication",
+  "pk": 2,
+  "fields": {
+    "title": "Rapport sur l'état de l'environnement au Maroc 2024",
+    "slug": "rapport-environnement-maroc-2024",
+    "authors": [
+      "MOCESS",
+      "Ministère de l'Environnement"
+    ],
+    "abstract": "Rapport complet sur l'état de l'environnement au Maroc en 2024",
+    "content": "",
+    "publication_type": "rapport",
+    "journal": "MOCESS Publications",
+    "doi": "",
+    "publication_date": "2025-06-27",
+    "keywords": [
+      "environnement",
+      "rapport",
+      "Maroc",
+      "2024"
+    ],
+    "file": "publications/Collecter_et_Intégration_des_données_météos_dans_un_SGBD.pdf",
+    "is_published": true,
+    "created_at": "2025-07-27T12:26:20.243Z",
+    "updated_at": "2025-07-28T18:34:56.124Z"
+  }
+},
+{
+  "model": "api.resource",
+  "pk": 1,
+  "fields": {
+    "title": "Guide de bonnes pratiques environnementales",
+    "slug": "guide-bonnes-pratiques-environnementales",
+    "description": "Guide complet pour les bonnes pratiques environnementales",
+    "resource_type": "document",
+    "file": "resources/Architecture.pdf",
+    "external_url": "",
+    "category": 1,
+    "is_public": true,
+    "download_count": 4,
+    "created_at": "2025-07-27T12:26:20.250Z",
+    "updated_at": "2025-07-28T18:37:55.285Z"
+  }
+},
+{
+  "model": "api.contactform",
+  "pk": 2,
+  "fields": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Test de formulaire",
+    "message": "Ceci est un test du formulaire de contact",
+    "phone": "+212 6 12 34 56 78",
+    "organization": "Test Organization",
+    "is_read": false,
+    "created_at": "2025-07-27T15:12:53.410Z"
+  }
+},
+{
+  "model": "api.contactform",
+  "pk": 3,
+  "fields": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Test de formulaire",
+    "message": "Ceci est un test du formulaire de contact",
+    "phone": "+212 6 12 34 56 78",
+    "organization": "Test Organization",
+    "is_read": false,
+    "created_at": "2025-07-27T15:12:55.597Z"
+  }
+},
+{
+  "model": "api.contactform",
+  "pk": 4,
+  "fields": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Test de formulaire",
+    "message": "Ceci est un test du formulaire de contact",
+    "phone": "+212 6 12 34 56 78",
+    "organization": "Test Organization",
+    "is_read": false,
+    "created_at": "2025-07-27T18:44:30.438Z"
+  }
+},
+{
+  "model": "api.contactform",
+  "pk": 5,
+  "fields": {
+    "name": "norbert",
+    "email": "norbrt@gmail.com",
+    "subject": "bien",
+    "message": "etd",
+    "phone": "14246407474",
+    "organization": "147885554477",
+    "is_read": false,
+    "created_at": "2025-08-06T00:58:58.569Z"
+  }
+},
+{
+  "model": "api.contactform",
+  "pk": 6,
+  "fields": {
+    "name": "norbert",
+    "email": "norbert@gmail.com",
+    "subject": "bien",
+    "message": "c",
+    "phone": "al",
+    "organization": "b",
+    "is_read": false,
+    "created_at": "2025-08-06T01:13:43.377Z"
+  }
+},
+{
+  "model": "api.contactform",
+  "pk": 7,
+  "fields": {
+    "name": "Norbert",
+    "email": "norbert@djiguemde.com",
+    "subject": "a",
+    "message": "bine",
+    "phone": "",
+    "organization": "b",
+    "is_read": false,
+    "created_at": "2025-08-06T12:02:59.151Z"
+  }
+},
+{
+  "model": "api.partnershipform",
+  "pk": 4,
+  "fields": {
+    "name": "Alban",
+    "email": "alban@gmail.com",
+    "organization": "IA",
+    "position": "Ingénieur",
+    "phone": "0456622551",
+    "website": "",
+    "partnership_type": "innovation",
+    "message": "bien",
+    "is_processed": true,
+    "created_at": "2025-07-30T15:06:04.983Z"
+  }
+},
+{
+  "model": "api.partnershipform",
+  "pk": 5,
+  "fields": {
+    "name": "Norbert",
+    "email": "norbert@gmail.com",
+    "organization": "etudiant",
+    "position": "poste",
+    "phone": "7457789568",
+    "website": "",
+    "partnership_type": "",
+    "message": "bien",
+    "is_processed": false,
+    "created_at": "2025-08-04T16:12:55.942Z"
+  }
+},
+{
+  "model": "api.partnershipform",
+  "pk": 6,
+  "fields": {
+    "name": "Norbert",
+    "email": "norbert@djiguemde.com",
+    "organization": "b",
+    "position": "c",
+    "phone": "47",
+    "website": "",
+    "partnership_type": "ex",
+    "message": "vibre",
+    "is_processed": false,
+    "created_at": "2025-08-06T11:57:20.641Z"
+  }
+},
+{
+  "model": "api.newslettersubscription",
+  "pk": 1,
+  "fields": {
+    "email": "norbertdjiguemde@gmail.com",
+    "is_active": true,
+    "subscribed_at": "2025-08-06T00:53:05.141Z",
+    "unsubscribed_at": null
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 1,
+  "fields": {
+    "name": "RAZOUGUI Abdelouahab",
+    "position": "Président",
+    "bio": "Président",
+    "email": "",
+    "phone": "",
+    "photo": "team/RAZOUGUI.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 1,
+    "created_at": "2025-07-27T12:26:20.266Z",
+    "updated_at": "2025-07-28T14:30:43.394Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 2,
+  "fields": {
+    "name": "AZIZ Faissal",
+    "position": "Vice-président",
+    "bio": "Spécialiste en gestion des ressources hydriques",
+    "email": "",
+    "phone": "",
+    "photo": "team/Aziz.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 2,
+    "created_at": "2025-07-27T12:26:20.272Z",
+    "updated_at": "2025-07-28T14:32:23.103Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 3,
+  "fields": {
+    "name": "ASSAQUA Jamal",
+    "position": "Secrétaire général",
+    "bio": "Secrétaire général",
+    "email": "",
+    "phone": "",
+    "photo": "team/ASSAQUA1.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 3,
+    "created_at": "2025-07-28T14:33:53.552Z",
+    "updated_at": "2025-07-30T13:54:47.511Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 4,
+  "fields": {
+    "name": "SADIQ Abderrahmane",
+    "position": "Adjoint au secrétaire général",
+    "bio": "Adjoint au secrétaire général",
+    "email": "",
+    "phone": "",
+    "photo": "team/Abderrahmane.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 4,
+    "created_at": "2025-07-28T14:34:26.295Z",
+    "updated_at": "2025-07-28T14:35:18.565Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 5,
+  "fields": {
+    "name": "OUERZZANE Fouad",
+    "position": "Trésorier",
+    "bio": "Trésorier",
+    "email": "",
+    "phone": "",
+    "photo": "team/Fouad1.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 5,
+    "created_at": "2025-07-28T14:36:28.988Z",
+    "updated_at": "2025-07-30T13:59:30.459Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 6,
+  "fields": {
+    "name": "WAHIDI Mustapha",
+    "position": "Adjoint au trésorier",
+    "bio": "Conseillère",
+    "email": "",
+    "phone": "",
+    "photo": "team/Mustapha1.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 6,
+    "created_at": "2025-07-28T14:37:45.517Z",
+    "updated_at": "2025-07-30T13:55:07.152Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 7,
+  "fields": {
+    "name": "LAHROUNI Majda",
+    "position": "Conseillère",
+    "bio": "Conseillère",
+    "email": "",
+    "phone": "",
+    "photo": "team/Majda.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 7,
+    "created_at": "2025-07-28T14:38:46.219Z",
+    "updated_at": "2025-07-28T14:38:46.219Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 8,
+  "fields": {
+    "name": "SBIHI Karim",
+    "position": "Conseiller",
+    "bio": "Conseiller",
+    "email": "",
+    "phone": "",
+    "photo": "team/Sbis212.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 8,
+    "created_at": "2025-07-28T14:41:20.768Z",
+    "updated_at": "2025-07-28T17:51:02.165Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 9,
+  "fields": {
+    "name": "TAI Taoufiq",
+    "position": "Conseiller",
+    "bio": "Conseiller",
+    "email": "",
+    "phone": "",
+    "photo": "team/taoufiq1.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 9,
+    "created_at": "2025-07-28T14:44:27.850Z",
+    "updated_at": "2025-07-28T17:40:57.863Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 11,
+  "fields": {
+    "name": "OUZIDANE Hassan",
+    "position": "Conseiller",
+    "bio": "Conseiller",
+    "email": "",
+    "phone": "",
+    "photo": "team/Hassan1.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 11,
+    "created_at": "2025-07-28T14:46:06.412Z",
+    "updated_at": "2025-07-28T17:45:00.069Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 13,
+  "fields": {
+    "name": "Kamal BARAKA",
+    "position": "conseiller",
+    "bio": "conseiller",
+    "email": "",
+    "phone": "",
+    "photo": "team/baraka1.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 10,
+    "created_at": "2025-07-30T13:41:48.318Z",
+    "updated_at": "2025-07-30T13:49:26.945Z"
+  }
+},
+{
+  "model": "api.teammember",
+  "pk": 14,
+  "fields": {
+    "name": "BOUTERKROUT Abdelkhalek",
+    "position": "Conseiller",
+    "bio": "Conseiller",
+    "email": "",
+    "phone": "",
+    "photo": "team/Abdoulkalet.jpg",
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "website": "",
+    "is_active": true,
+    "order": 12,
+    "created_at": "2025-07-30T13:45:42.055Z",
+    "updated_at": "2025-07-30T13:46:01.476Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 6,
+  "fields": {
+    "name": "Association Al Amal pour le Développement Durable",
+    "logo": "partners/logo3.JPG",
+    "website": "https://www.association-al-amal.ma/",
+    "description": "",
+    "partner_type": "ONG et collectivités territoriales",
+    "is_active": true,
+    "order": 1,
+    "created_at": "2025-07-28T15:52:11.959Z",
+    "updated_at": "2025-08-06T22:12:26.907Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 7,
+  "fields": {
+    "name": "Centre National d’Étude et de Recherche sur l’Eau et l’Énergie (CNEREE)",
+    "logo": "partners/logo.jpg",
+    "website": "https://cneree.uca.ma/",
+    "description": "",
+    "partner_type": "Laboratoires nationaux",
+    "is_active": true,
+    "order": 2,
+    "created_at": "2025-07-28T16:06:10.479Z",
+    "updated_at": "2025-08-06T22:12:26.921Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 8,
+  "fields": {
+    "name": "Faculté Polydisciplinaire de Taroudant – Université Ibn Zohr",
+    "logo": "partners/log.png",
+    "website": "https://www.uiz.ac.ma/faculte-polydisciplinaire-taroudant",
+    "description": "",
+    "partner_type": "Universités",
+    "is_active": true,
+    "order": 3,
+    "created_at": "2025-07-28T16:08:41.007Z",
+    "updated_at": "2025-08-06T22:12:26.922Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 9,
+  "fields": {
+    "name": "Ambassade de France au Maroc",
+    "logo": "partners/a.png",
+    "website": "https://ma.ambafrance.org/",
+    "description": "",
+    "partner_type": "Diplomatiques",
+    "is_active": true,
+    "order": 4,
+    "created_at": "2025-07-28T16:19:40.010Z",
+    "updated_at": "2025-08-06T22:12:26.923Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 10,
+  "fields": {
+    "name": "Fonds canadien d'initiatives locales",
+    "logo": "partners/logo0.jpg",
+    "website": "https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/index.aspx?lang=fra",
+    "description": "",
+    "partner_type": "Diplomatiques",
+    "is_active": true,
+    "order": 5,
+    "created_at": "2025-07-28T16:50:49.008Z",
+    "updated_at": "2025-08-06T22:12:26.925Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 11,
+  "fields": {
+    "name": "Qnet",
+    "logo": "partners/logo1.jpg",
+    "website": "https://www.qnet.net/",
+    "description": "",
+    "partner_type": "ONG et collectivités territoriales",
+    "is_active": true,
+    "order": 6,
+    "created_at": "2025-07-28T17:03:19.984Z",
+    "updated_at": "2025-08-06T22:12:26.926Z"
+  }
+},
+{
+  "model": "api.partner",
+  "pk": 15,
+  "fields": {
+    "name": "M2K TELECOM",
+    "logo": "partners/M2K_TELECOM__VPAoksD.jpg",
+    "website": "",
+    "description": "M2K TELECOM",
+    "partner_type": "Technologies",
+    "is_active": true,
+    "order": 7,
+    "created_at": "2025-08-07T01:56:51.772Z",
+    "updated_at": "2025-08-07T01:56:51.773Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 1,
+  "fields": {
+    "name": "Test Event User",
+    "email": "event@example.com",
+    "phone": "+212 6 12 34 56 78",
+    "message": "Je souhaite m'inscrire aux prochains événements",
+    "participation_mode": "",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-07-27T18:44:18.883Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 2,
+  "fields": {
+    "name": "Test Event User",
+    "email": "event@example.com",
+    "phone": "+212 6 12 34 56 78",
+    "message": "Je souhaite m'inscrire aux prochains événements",
+    "participation_mode": "",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-07-27T18:44:28.396Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 3,
+  "fields": {
+    "name": "Test Event User",
+    "email": "event@example.com",
+    "phone": "+212 6 12 34 56 78",
+    "message": "Je souhaite m'inscrire aux prochains événements",
+    "participation_mode": "",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-07-30T14:28:35.190Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 5,
+  "fields": {
+    "name": "norbert",
+    "email": "norbert@gmail.com",
+    "phone": "07131455",
+    "message": "hffhezgfùmgl",
+    "participation_mode": "",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-08-03T10:04:45.836Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 13,
+  "fields": {
+    "name": "norbert",
+    "email": "norbert@gmail.com",
+    "phone": "74577313",
+    "message": "bien",
+    "participation_mode": "présentiel",
+    "position": "etudiant",
+    "organization": "etudiant",
+    "interest_domain": "foote",
+    "created_at": "2025-08-04T16:03:03.201Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 14,
+  "fields": {
+    "name": "norbert",
+    "email": "norbert@gmail.com",
+    "phone": "789411",
+    "message": "bien",
+    "participation_mode": "présentiel",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-08-04T16:03:52.662Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 15,
+  "fields": {
+    "name": "alban",
+    "email": "alban@gmail.com",
+    "phone": "74577314",
+    "message": "messnfffef",
+    "participation_mode": "présentiel",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-08-04T16:04:32.373Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 16,
+  "fields": {
+    "name": "norbert",
+    "email": "djiguemde@gmail.com",
+    "phone": "74517851",
+    "message": "bien",
+    "participation_mode": "présentiel",
+    "position": "",
+    "organization": "",
+    "interest_domain": "",
+    "created_at": "2025-08-04T16:10:53.899Z"
+  }
+},
+{
+  "model": "api.eventregistration",
+  "pk": 17,
+  "fields": {
+    "name": "Norbert",
+    "email": "norbert@gmail.com",
+    "phone": "478546799",
+    "message": "bin",
+    "participation_mode": "présentiel",
+    "position": "bine",
+    "organization": "ensa",
+    "interest_domain": "ac",
+    "created_at": "2025-08-05T23:17:40.668Z"
+  }
+},
+{
+  "model": "api.externallink",
+  "pk": 1,
+  "fields": {
+    "title": "Lancement du projet",
+    "url": "https://www.uca.ma/fr/news/cneree-uca-un-acteur-cle-du-developpement-durable",
+    "description": "",
+    "category": "partenaire",
+    "icon": "",
+    "is_active": true,
+    "order": 1,
+    "created_at": "2025-08-06T23:52:03.125Z",
+    "updated_at": "2025-08-06T23:52:03.125Z"
+  }
+}
+]
