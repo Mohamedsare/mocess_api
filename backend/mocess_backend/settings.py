@@ -68,7 +68,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = 'mocess_backend.urls'
@@ -193,7 +192,7 @@ if os.environ.get('RAILWAY_PUBLIC_DOMAIN'):
 # Configuration CORS plus permissive pour le développement
 if DEBUG:
     CORS_ALLOW_ALL_ORIGINS = True
-    # Ne pas modifier CORS_ALLOWED_ORIGINS avec "*" car Django s'attend à des URLs complètes
+    CORS_ALLOWED_ORIGINS = ["*"]
 
 CORS_ALLOW_CREDENTIALS = True
 

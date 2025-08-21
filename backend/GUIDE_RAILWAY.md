@@ -133,3 +133,4 @@ python manage.py collectstatic --noinput
 ---
 
 **Votre projet est maintenant 100% prêt pour Railway ! 🎉**
+
