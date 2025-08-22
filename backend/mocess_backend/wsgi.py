@@ -11,6 +11,12 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mocess_backend.settings')
+# Utiliser la configuration Railway en production
+if os.environ.get('RAILWAY_ENVIRONMENT') == 'production':
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mocess_backend.railway_settings')
+    print("🚀 Configuration Railway détectée")
+else:
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mocess_backend.settings')
+    print("🔧 Configuration locale détectée")
 
 application = get_wsgi_application()
