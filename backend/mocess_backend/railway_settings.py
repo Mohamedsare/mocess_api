@@ -9,12 +9,18 @@ from .settings import *
 # Configuration spécifique Railway
 RAILWAY_ENVIRONMENT = os.environ.get('RAILWAY_ENVIRONMENT', 'production')
 
-# Gestion robuste du port
-PORT = os.environ.get('PORT', '8000')
+# Gestion robuste du port Railway
+PORT = os.environ.get('PORT', '51395')
 if not PORT.isdigit() or int(PORT) < 1 or int(PORT) > 65535:
-    PORT = '8000'
+    print(f"⚠️ Port Railway invalide: {PORT}, utilisation du port par défaut: 8000")
+    PORT = '51395'
+else:
+    print(f"✅ Port Railway valide: {PORT}")
 
-print(f"🚀 Configuration Railway - Port: {PORT}")
+print(f"🚀 Configuration Railway - Port final: {PORT}")
+
+# S'assurer que le port est bien défini dans l'environnement
+os.environ['PORT'] = str(PORT)
 
 # Configuration de la base de données Railway
 if os.environ.get('DATABASE_URL'):
